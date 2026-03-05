@@ -175,8 +175,8 @@ If you have an idea, **Omni-Enhanced Developers can help turn it into reality.**
 
 For collaboration or project ideas:
 
-📧 Contact: Add your email
-🌐 LinkedIn: Add your LinkedIn
+📧 Contact: tecomputerniteshyadav@gmail.com
+🌐 LinkedIn: Coming soon
 
 ---
 
