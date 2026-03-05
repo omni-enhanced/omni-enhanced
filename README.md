@@ -36,7 +36,6 @@ Achievements include participation and wins in:
 🏆 **Prakalp 2.0**
 🏆 **Tantragyan**
 🏆 **Hack2Crack**
-🏆 **DMCE Hackathon**
 
 Hackathons allow us to transform **ideas into real working systems within hours.**
 
@@ -147,10 +146,6 @@ Encourages eco-friendly behavior through:
 ---
 
 # 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omni-enhanced\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omni-enhanced\&layout=compact\&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=omni-enhanced\&theme=tokyonight)
 
