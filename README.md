@@ -68,10 +68,10 @@ An intelligent evaluation platform that analyzes answer sheets using AI.
 
 Core technologies:
 
-- • OCR-based text extraction
-- • Semantic answer evaluation
-- • Confidence-based scoring
-- • AI feedback generation
+-  OCR-based text extraction
+-  Semantic answer evaluation
+-  Confidence-based scoring
+-  AI feedback generation
 
 ---
 
@@ -83,10 +83,10 @@ A machine-learning based security system designed to detect phishing websites in
 
 Capabilities include:
 
-• URL feature analysis
-• ML-based phishing detection
-• Browser extension monitoring
-• Security warning alerts
+- URL feature analysis
+- ML-based phishing detection
+- Browser extension monitoring
+- Security warning alerts
 
 ---
 
@@ -104,9 +104,9 @@ A civic-tech solution that allows citizens to report public infrastructure probl
 
 Encourages eco-friendly behavior through:
 
-• Gamified sustainability challenges
-• AI learning assistant
-• Community environmental engagement
+- Gamified sustainability challenges
+- AI learning assistant
+- Community environmental engagement
 
 ---
 
@@ -164,7 +164,9 @@ Our mission is to design **innovative, scalable, and impactful solutions that so
 We welcome:
 
 💡 Innovative project ideas
+
 🤝 Hackathon collaborations
+
 🚀 Technology partnerships
 
 If you have an idea, **Omni-Enhanced Developers can help turn it into reality.**
@@ -176,6 +178,7 @@ If you have an idea, **Omni-Enhanced Developers can help turn it into reality.**
 For collaboration or project ideas:
 
 📧 Contact: tecomputerniteshyadav@gmail.com
+
 🌐 LinkedIn: Coming soon
 
 ---
