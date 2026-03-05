@@ -19,10 +19,15 @@ We don't just participate in hackathons — **we design systems, build products,
 # 🧠 Focus Areas
 
 🔹 Artificial Intelligence & Machine Learning
+
 🔹 Cybersecurity Systems
+
 🔹 Civic Technology Platforms
+
 🔹 Education Technology
+
 🔹 Workflow Automation
+
 🔹 Smart Digital Infrastructure
 
 ---
@@ -34,7 +39,9 @@ Our team actively builds innovative solutions through hackathons and project com
 Achievements include participation and wins in:
 
 🏆 **Prakalp 2.0**
+
 🏆 **Tantragyan**
+
 🏆 **Hack2Crack**
 
 Hackathons allow us to transform **ideas into real working systems within hours.**
@@ -52,10 +59,15 @@ A digital governance platform designed to automate campus operations.
 Key capabilities:
 
 • Secure admin-verified onboarding
+
 • Role-based dashboards
+
 • Clash-free event scheduling
+
 • Multi-level approval workflow
+
 • Digital attendance system
+
 • Automated institutional reporting
 
 ---
