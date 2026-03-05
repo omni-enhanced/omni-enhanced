@@ -68,10 +68,10 @@ An intelligent evaluation platform that analyzes answer sheets using AI.
 
 Core technologies:
 
-• OCR-based text extraction
-• Semantic answer evaluation
-• Confidence-based scoring
-• AI feedback generation
+- • OCR-based text extraction
+- • Semantic answer evaluation
+- • Confidence-based scoring
+- • AI feedback generation
 
 ---
 
